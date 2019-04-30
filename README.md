@@ -15,7 +15,7 @@
 
 ## 实现方法 ##
 ### 1. 安装树莓派 ###
-  自行百度即可。
+&#8195;自行百度即可。
 
 ### 2. 小车的控制 ###
 1. 小车底层硬件的控制使用python库的RPi.GPIO，代码很简单。  
@@ -39,5 +39,5 @@
 [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html "Python 3 教程")  
 [树莓派GPIO控制](https://blog.csdn.net/chentuo2000/article/details/81051645 "树莓派GPIO控制")   
 [树莓派上MJPG-streamer的安装过程](http://shumeipai.nxez.com/2017/05/14/raspberry-pi-mjpg-streamer-installation.html "树莓派上MJPG-streamer的安装过程")  
-[树莓派小车-WEB按键控制](https://www.ncnynl.com/archives/201609/834.html)
+[树莓派小车-WEB按键控制](https://www.ncnynl.com/archives/201609/834.html)  
 [简单WiFi控制小车系统（树莓派＋python＋web控制界面)](https://blog.csdn.net/qq_41923622/article/details/85850780)
